@@ -33,3 +33,4 @@
 * **[⚫️ [2024] degen communism](https://vitalik.eth.limo/general/2024/04/01/dc.html)**
 * **[⚫️ [2024] plurality philosophy in an incredibly oversized nutshell](https://vitalik.eth.limo/general/2024/08/21/plurality.html)**
 * **[⚫️ [2025] d/acc: one year later](https://vitalik.eth.limo/general/2025/01/05/dacc2.html)**
+* **[⚫️ [2025] the trustless manifesto](https://trustlessness.eth.limo/general/2025/11/11/the-trustless-manifesto.html)**
